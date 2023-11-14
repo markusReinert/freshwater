@@ -1,7 +1,5 @@
 import sys
-import os
 import re
-import glob
 import numpy as np
 import pandas as pd
 import xarray as xr
